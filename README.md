@@ -1,2 +1,5 @@
-# Neatos
-A repository to contain the files used in my Quantitative Engineering Analysis class's robotics unit.
+# Bridge of Doom
+Olin College of Engineering
+QEA 2020
+
+for more information about this project, visit https://qeacourse.github.io/RoboNinjaWarrior/
