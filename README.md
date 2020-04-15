@@ -1,7 +1,7 @@
 # Bridge of Doom
-Olin College of Engineering
-QEA 2020
-For more information about this project, visit https://qeacourse.github.io/RoboNinjaWarrior/
+Olin College of Engineering  
+QEA 2020  
+For more information about this project, visit https://qeacourse.github.io/RoboNinjaWarrior/  
 
 ## Files in this Repository
 * BridgeOfDoom.mlx contains all plots 
